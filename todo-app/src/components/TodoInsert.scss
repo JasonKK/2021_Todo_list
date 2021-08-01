@@ -6,8 +6,8 @@
     outline: none;
     border: none;
     padding: 0.5rem;
-    font-size: 1.125rem;
-    line-height: 1.5;
+    font-size: 1.125rem; // 칸 안의 글씨 크기
+    line-height: 1.5; //칸 높이
     color: white;
     &::placeholder {
       color: #dee2e6;

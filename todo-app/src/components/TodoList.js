@@ -8,6 +8,7 @@ const TodoList = () => {
       <TodoListItem />
       <TodoListItem />
       <TodoListItem />
+      <TodoListItem />
     </div>
   );
 };
